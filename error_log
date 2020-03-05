@@ -1,0 +1,7 @@
+[18-Mar-2019 19:07:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '<' in /home/rashmicabs/public_html/application/views/placenearbvn.php on line 247
+[18-Mar-2019 19:08:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '<' in /home/rashmicabs/public_html/application/views/placenearbvn.php on line 247
+[18-Mar-2019 19:09:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '<' in /home/rashmicabs/public_html/application/views/placenearbvn.php on line 247
+[18-Mar-2019 19:10:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '<' in /home/rashmicabs/public_html/application/views/placenearbvn.php on line 247
+[13-Apr-2019 01:29:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/rashmicabs/public_html/application/controllers/Cablist.php on line 72
+[11-May-2019 15:05:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/rashmicabs/public_html/application/views/multicitycablist.php on line 524
+[11-May-2019 15:13:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file in /home/rashmicabs/public_html/application/views/onewaycablist.php on line 270
